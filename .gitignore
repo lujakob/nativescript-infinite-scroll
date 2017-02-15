@@ -1,0 +1,9 @@
+.idea
+.ab
+.abignore
+.abproject
+node_modules
+platforms
+hooks
+abreferences.d.ts
+*.ipa

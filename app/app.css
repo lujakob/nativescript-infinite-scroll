@@ -1,0 +1,5 @@
+@import "nativescript-theme-core/css/core.light.css";
+
+.medium-spacing {
+    margin: 10;
+}
